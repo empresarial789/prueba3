@@ -23,7 +23,7 @@
   "homepage": "https://github.com/KingNawl/API-Comercio-Electronico#readme",
   "dependencies": {
     "bcrypt": "^5.1.1",
-    "bootstrap": "^5.3.3",
+    "bootstrap": "^5.3.5",
     "bootstrap-icons": "^1.11.3",
     "cookie-parser": "^1.4.6",
     "dotenv": "^16.4.5",
